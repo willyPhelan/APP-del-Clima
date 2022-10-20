@@ -1,19 +1,19 @@
-App para el pronóstico del clima creada con React!
+### App para el pronóstico del clima creada con React!
 
 Conectada simultaneamente a dos Apis, una para obtener el clima actual en un lugar/ciudad determinado y otra para obtener el pronostico para las proximas horas.
 
-Scripts:
+### Scripts:
 
 En la carpeta del proyecto hacer:
 
-npm start
+### npm start
 Ejecuta la App en modo desarrollo
 
 Abrir [http://localhost:3000] para ver el proyecto en el navegador
 
 La página se actualizará ante nuevos cambios y devolverá errores en caso de que los haya a travez de la consola.
 
-npm run build
+### npm run build
 Buildea la app para pasarla al modo producción
 
 La APP está lista para ser deployada!!
