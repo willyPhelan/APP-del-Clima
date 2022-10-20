@@ -18,8 +18,12 @@ Buildea la app para pasarla al modo producción
 
 La APP está lista para ser deployada!!
 
-[Captura de pantalla (70)](https://user-images.githubusercontent.com/97048366/197027548-00cf8853-43e1-4440-95d8-2947049725e6.png)
+
+![Captura de pantalla (70)](https://user-images.githubusercontent.com/97048366/197027924-0c1d9bb7-c016-456d-b080-a5aa812af2d3.png)
+
+![Captura de pantalla (67)](https://user-images.githubusercontent.com/97048366/197028047-225a5886-b49f-416c-8055-fd79c2e5cdd5.png)
+
+![Captura de pantalla (68)](https://user-images.githubusercontent.com/97048366/197028111-ea34fbc1-ca9a-4af1-b2e4-7aa5316c34e8.png)
 
 
-<hr/>
 
