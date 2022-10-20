@@ -1,0 +1,19 @@
+.input-group { 
+    width: 60%
+}
+@media (max-width: 800px) and (min-width:250px) { 
+    .input-group{
+ 
+    width: 60%;
+    
+ 
+    
+    }
+    .btn{ width: 60%;
+}}
+
+
+
+
+
+

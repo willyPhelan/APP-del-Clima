@@ -1,0 +1,228 @@
+.g-0 { 
+    height: 450px;
+    width: auto;
+   background-image: url('https://images.pexels.com/photos/4337198/pexels-photo-4337198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+   border: solid black 1px;
+   border-radius: 5px;
+   background-size:cover
+   
+}
+
+
+ 
+
+.text-start { 
+   margin-top: 30px;
+    height: 400px ;
+    margin-right: 10px;
+    background-image: url('https://images.pexels.com/photos/2411688/pexels-photo-2411688.jpeg?auto=compress&cs=tinysrgb&w=600');
+    border-radius: 5px;
+    border: 1px solid rgb(231, 42, 42) ;
+
+    padding-top: 1%;
+   
+    
+}
+@media (max-width: 800px) { 
+    .text-start{
+    display: none;}}
+
+.img-fluid { 
+   
+    height: 400px;
+    width: 70%;
+    border: 1px solid  red ;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+@media (max-width: 800px) {
+    .img-fluid { 
+        height: 100%;
+        margin-right: 100px;
+        
+       
+        
+        
+    
+}
+}
+
+.card-title { 
+    position: absolute ;
+    justify-content: center;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    color: rgb(231, 42, 42) ;
+        background-color: black;
+        width: 250px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid rgb(231, 42, 42) ;
+        height: 30px;
+        margin-left: 7.42%;
+        margin-top: 20px;
+    
+       
+}
+@media (max-width: 800px) and (min-width:250px) { 
+    .card-title{
+ 
+    width: 60%;
+    padding-right: 20%;
+    margin-left: 5%;
+
+}}
+
+
+
+.card-date{ 
+    position: absolute;
+    border: 1px solid rgb(231, 42, 42) ;
+    padding-left: 10px;
+    justify-content: center;
+    color: solid yellow rgb(214, 214, 21);
+    height: 25px;
+    width: 220px;
+    margin-top: 100px;
+    margin-left: 75px;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 500px;
+    opacity: 40%;
+    margin-left: 8.5%;
+    
+}
+@media (max-width: 800px) and (min-width:250px) { 
+    .card-date{
+ 
+    width: 50%;
+    padding-right: 20%;
+}}
+
+.card-text{
+    background-color: black;
+    padding-left: 20px;
+    border: 1px solid rgb(231, 42, 42) ;
+    width: 98.5%;
+    margin-left: 5px;
+}
+
+
+.card-temp{ 
+    position: absolute;
+    padding-left:11%;
+    margin-top: 260px;
+    font-size: 50px;
+    color: rgb(214, 214, 21);
+}
+@media (max-width: 800px) and (min-width:250px) { 
+    .card-temp{
+    
+    
+    width: 70%;
+    padding-right: 20%
+}}
+
+.card-desc {
+    
+    position: absolute;
+   
+    margin-top: 330px;
+    color: rgb(231, 42, 42) ;
+        background-color: black;
+        width: 190px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid rgb(231, 42, 42) ;
+        height: 30px;
+        margin-left: 9.5%;
+    
+}
+@media (max-width: 800px) and (min-width:250px) { 
+    .card-desc{
+   
+    
+    width: 50% ;
+    
+}}
+
+
+
+.predicciones {
+    
+   
+    color: aqua;
+    margin-left: 15px;
+    display: flex;
+    justify-items: auto;
+    overflow: hidden;
+}
+
+.pred { color: rgb(231, 42, 42) ;
+        background-color: black;
+        width: 190px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid rgb(231, 42, 42) ;
+        height: 30px;
+    }
+
+.temp { 
+    color: rgb(231, 42, 42) ;
+    background-color: black;
+    width: 190px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(231, 42, 42) ;
+    height: 30px;
+}
+
+.description { 
+    color: rgb(231, 42, 42) ;
+        background-color: black;
+        width: 190px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid rgb(231, 42, 42) ;
+        height: 30px;
+}
+
+.fecha { color: rgb(231, 42, 42) ;
+    background-color: black;
+    width: 190px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(231, 42, 42) ;
+    height: 30px;
+}
+
+
+.no { 
+    color: rgb(231, 42, 42) ;
+    background-color: black;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 39%;
+    border: 1px solid rgb(231, 42, 42) ;
+    padding: 2px;
+    padding-bottom: 3px;
+  
+}
+
+@media (max-width: 800px) and (min-width:250px) { 
+    .no{
+    
+    margin-left: 15%;
+    width: 280px;
+    padding-right: 25px;
+}}
+
+

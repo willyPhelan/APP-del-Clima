@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  display: grid;
+  gap: 10px;
+  grid-template-areas: 
+  'NavBar'
+  'Form'
+  'Spinner'
+  'WeatherPanel'
+  'Card'
+} 
+
+
+
+
+body { 
+  background-image: url(https://images.pexels.com/photos/2338113/pexels-photo-2338113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+ 
+ 
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.Card { 
+  max-width: 60%;
+}

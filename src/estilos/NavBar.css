@@ -1,0 +1,24 @@
+.container-fluid { 
+   background-image: url(https://images.pexels.com/photos/315191/pexels-photo-315191.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+height: 100px;
+}
+
+.nav { 
+    color: rgb(231, 42, 42) ;
+    background-color: black;
+    border-radius: 5px;
+    width: 400px;
+   margin: 10px;
+    border: 1px solid rgb(231, 42, 42) ;
+    margin-left: 35%;
+   justify-content: center;
+   padding: 10px;
+
+
+}
+
+@media (max-width: 1200px) { 
+   .nav{
+   display: none;}
+}
+
